@@ -6,6 +6,8 @@ Este repositorio contiene el código y scripts necesarios para implementar un pi
 
 ![Arquitectura AWS Data Pipeline](assets/aws_architecture.gif)
 
+![Diagrama en Power Bi](assets/power_bi_diagram.png)
+
 ### Componentes Clave
 
 - **Amazon RDS**: Origen de los datos (base de datos transaccional).
